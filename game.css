@@ -1,0 +1,36 @@
+body
+{
+	background: rgba(119, 152, 34, 0.397);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgba(135, 158, 51, 0.637);
+		padding: 15px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 30%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgba(122, 148, 157, 0.536);
+border-radius: 15px;
+border-top: 15px solid #0c7e7eab;
+padding: 15px;
+float: none;
+text-align: center;
+}
